@@ -14,11 +14,9 @@ Saytda quyidagi bo‘limlar mavjud:
 
 ---
 
-## 📷 Ekran rasmi
+📷 Netlify
 
-> Bu yerga loyiha sahifasining skrinshotini ko'rishingiz mumkin:
-> 
-> ![Portfolio Preview](https://rococo-jelly-a4a00c.netlify.app/)
+https://rococo-jelly-a4a00c.netlify.app
 
 ---
 
